@@ -1,8 +1,8 @@
-# TV Series REST API
-### This is a very simple CRUD REST API written with Java and Spring Boot
+# Vue TV Series
+### A Very simple front-end written in Vue to showcase the TV Series REST API project
 
-### [DEMO](https://emiscode-tv-series-api.herokuapp.com/swagger-ui.html#/series45resource)
-### [Front-end project: Vue TV Series](https://github.com/emiscode/vue-tv-series)
+### [DEMO](#)
+### [Back-end project: TV Series REST API](https://github.com/emiscode/tv-series-rest-api)
 
 ## Project setup
 ```
